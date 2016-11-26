@@ -1,0 +1,24 @@
+{
+  "name": "armygo",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "geodist": "^0.2.1",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.0",
+    "raf": "^3.3.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-google-maps": "^6.0.1",
+    "semantic-ui": "^2.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
